@@ -2,6 +2,8 @@ package com.neotech.lesson03;
 
 public class ArithmeticOperators {
 
+	//new comment
+	
 	public static void main(String[] args) {
 		
 		int num1 = 24,
